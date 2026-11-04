@@ -1,0 +1,28 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background: url("/Fucking\ Tommy.jpg");
+    background-size: cover;
+}
+
+#bd {
+    width: 540px;
+    height: 540px;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+    background: url("/bg.jpg");
+    background-size: cover;
+    border: 3px solid white;
+    border-radius: 25px;
+
+}
+
+#bd div {
+    width: 180px;
+    height: 180px;
+    background-image: url("/whiskey.png");
+    background-size: cover;
+}
